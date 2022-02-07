@@ -1,0 +1,31 @@
+INITIALISATION
+vector<data type> name;
+put value=v.push_back(number);
+
+print vector material
+for(auto it:v )//v is vector
+{
+    cout<<it;
+}
+DELETE
+v.pop_back();
+
+ASSIGNING VALUES
+vector<int> v2 (3,50);//v2==50,50,50
+
+SWAPPING vector
+swap(v,v2);
+
+SORTING
+sort(v.begin(),v,end());
+
+
+
+std::pair
+INITIALISATION
+pair<int,char> p;
+
+ACCESING
+
+p.first=6;
+p.second='y';
